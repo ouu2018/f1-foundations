@@ -9,7 +9,7 @@ When are you are first starting, you want to "clone" this onto your computer.
 In your Terminal or Command Line, run the following:
 
 ```bash
-git clone https://github.com/codechrysalis/beta-foundations.git
+git clone https://github.com/codechrysalis/f1-foundations.git
 ```
 
 ## Getting New Lessons
